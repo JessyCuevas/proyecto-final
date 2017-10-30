@@ -40,4 +40,4 @@ Fórmula para cifrar: (x - 65 + n)%26 + 65
 
 
 
-	![esta es la imagen del diagrama](diagrama.jpg)
+	![esta es la imagen del diagrama](Diagrama.jpg)
